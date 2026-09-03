@@ -35,7 +35,7 @@ The model uses:
 - Charger type and capacity
 - Geographic information
 
-> Add the names, links, and collection dates of your actual data sources here.
+
 
 ## Key Results
 
@@ -46,7 +46,6 @@ The model identified several areas with large projected infrastructure shortages
 
 The proposed expansion strategy prioritizes urban areas before expanding into suburban and rural communities. The model estimates that the recommendations could reduce average wait times by 25% and improve station utilization by 20%.
 
-> These numbers represent model estimates, not observed improvements following construction.
 
 ## Repository Structure
 
